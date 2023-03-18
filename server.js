@@ -1,3 +1,15 @@
+/*********************************************************************************
+*  WEB322 – Assignment 04
+*  I declare that this assignment is my own work in accordance with Seneca  Academic Policy.  No part *  of this assignment has been copied manually or electronically from any other source 
+*  (including 3rd party web sites) or distributed to other students.
+* 
+*  Name: Harmish Patel Student ID: 15456212  Date: 17/03/2023
+*
+*  Cyclic Web App URL: https://drab-visor-seal.cyclic.app/about
+*
+*  GitHub Repository URL: https://github.com/Har7974/web-322-Assignment-4
+*
+********************************************************************************/ 
 var HTTP_PORT = process.env.PORT || 8080;
 var express = require('express');
 var app = express();
